@@ -17,27 +17,27 @@ namespace Ejercicio_8
 
             if (num1 >= 0)
             {
-                if (num2 >= 0) Console.WriteLine("Ambos son positivos");
+                if (num2 >= 0) Console.WriteLine("Los dos numeros son positivos");
                
             }
              else
             {
                 if(num1 < 0)
                 {
-                    if (num2 < 0) Console.WriteLine("Ambos son negativos");
+                    if (num2 < 0) Console.WriteLine("Ningun de los numeros es positivo");
                 }
             
             }  
 
            if (num1 >= 0)
             {
-                if (num2 < 0) Console.WriteLine("Uno de ellos es negativo");
+                if (num2 < 0) Console.WriteLine("Uno de los numeros es positivo");
             }
            else
             {
                 if (num1 < 0)
                 {
-                    if (num2 >= 0) Console.WriteLine("Uno de ellos es negativo");
+                    if (num2 >= 0) Console.WriteLine("Uno de los numeros es positivo );
                 }
             }
         
