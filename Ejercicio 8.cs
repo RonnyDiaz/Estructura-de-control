@@ -37,7 +37,7 @@ namespace Ejercicio_8
             {
                 if (num1 < 0)
                 {
-                    if (num2 >= 0) Console.WriteLine("Uno de los numeros es positivo );
+                    if (num2 >= 0) Console.WriteLine("Uno de los numeros es positivo");
                 }
             }
         
